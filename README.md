@@ -1,16 +1,26 @@
-## Hi there 👋
+# Emmanuel's GitHub
 
-<!--
-**emmanuel-salcedo/emmanuel-salcedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+Hello! I'm Emmanuel. I recently graduated from California State University, Monterey Bay (CSU MB) with a bachelor's degree in Computer Science. I am currently looking for my first role as a Data Analyst. I have a passion for technology, data, and storytelling through data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Languages & Tools:** SQL, Python, Excel
+- **Data Analysis:** Data Wrangling, Data Visualization
+- **Software Development:** Version Control, Collaboration
+- **Communication:** Report Writing, Presentation
+
+## 📈 Current Focus
+
+- Working on personal projects to enhance my skills
+- Career growth to land a new role as an Entry-Level Data Analyst
+
+## 🐾 Personal
+
+- I live in Los Angeles with my spouse and our Corgi named Nano. We love exploring local food spots and enjoying daily adventures together.
+
+## 📫 Contact Me
+
+- **Email:** [mail@emmanuelsalcedo.com](mailto:mail@emmanuelsalcedo.com)
+- **LinkedIn:** [Emmanuel Salcedo](https://www.linkedin.com/in/emmanuelsalcedo/)
